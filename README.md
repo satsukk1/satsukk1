@@ -5,3 +5,5 @@ Something I want to tell visitor:
 3. Tech should be used for building a better world, the GFW is not reasonable whatever.
 4. The disadvantages GFW brings are much bigger than you thought, the information we get determined our mindset.
 5. ...
+
+If you want to communicate with me, please open an issue in [here](https://github.com/satsukk1/satsukk1/issues)
